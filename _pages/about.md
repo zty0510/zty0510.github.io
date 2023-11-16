@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Tangyuan(Daniel) Zhang, a senior undergraduate student majoring in computer science at ShanghaiTech University.
 
-My research interests include natural language processing, multimodal learning and AI security & Privacy eg. Exploiting the vulnerability of prompt-based model to atteck and jailbreak.
+My research interests include **natural language processing, multimodal learning and AI security & Privacy** eg. Exploiting the vulnerability of prompt-based model to attack and jailbreak.
 Now I am also working on quantitative methods for automated trading in Finance and Stock market.
 
 
