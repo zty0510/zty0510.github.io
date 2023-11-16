@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, ShanghaiTech University, Shanghai, 2020-2024
-* 
 Work experience
 ======
 * Shanghai Luoshu Investments: Python Developer (2022)
