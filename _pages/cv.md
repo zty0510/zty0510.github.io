@@ -8,19 +8,15 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Education
 ======
-* B.S. in Computer Science, ShanghaiTech University, Shanghai, 2020-2024
-Work experience
-======
-* Shanghai Luoshu Investments: Python Developer (2022)
-  * Mentor: Wang Liang
-  * Leader: Huang yong
+* **Shanghai Luoshu Investments Co., Ltd., Shanghai, China**  (Aug.2022 – Dec.2022)
+  * ***Python Developer Intern, IT2***
+  * Developed and maintained the company's quantitative and high-speed trading systems and company’s automation platform for daily uploading and running of scripts.
+  * Developed data platform and factor platform.
 
-* Shanghai Shudan information and technology 
-  * Python Developer
-  * Web3.0 and NFT crawler.
+* **Shanghai Shudan Information and Technology, Shanghai China** (June.2022 – July.2022)
+  * ***Python Developer***
+  * Developed and maintained Web3.0 and NFT crawler using HTML, JavaScript, and Python for reverse engineering and decompilation to retrieve and aggregate data for customers to make trading decisions.
   
 <!-- Skills
 ======
