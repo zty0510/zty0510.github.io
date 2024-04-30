@@ -24,21 +24,26 @@ Work experience
 ======
 * **Shanghai Luoshu Investments Co., Ltd., Shanghai, China**  (Aug.2022 – Dec.2022)
   * ***Python Developer Intern, IT2***
-  * Developed and maintained the company's quantitative and high-speed trading systems and company’s automation platform for daily uploading and running of scripts.
-  * Developed data platform and factor platform.
+  * Developed and maintained the company's quantitative and high-speed trading systems and company's automation platform for daily uploading and running of scripts.
+
+  * Developed data platform and factor platform to aid trading decisions.
+  * Optimized the storage of transaction data and accelerated the trading backtesting through parallel computing.
 
 * **Shanghai Shudan Information and Technology, Shanghai China** (June.2022 – July.2022)
   * ***Python Developer***
-  * Developed and maintained Web3.0 and NFT crawler using HTML, JavaScript, and Python for reverse engineering and decompilation to retrieve and aggregate data for customers to make trading decisions.
+  * Developed a web crawler for NFT market information, employing reverse engineering and decompilation with HTML, Javascript, and Python.
+
+  * Established and maintained a database for data collection and automated script management.
   
 Projects
 ======
 * **Chrome Dino Runner Game(RISC-V Architecture)** [The final realization video【DINO GO!】](https://www.bilibili.com/video/BV1bF411G7NM/?share_source=copy_web&vd_source=31e71e00bd243ce11ed2d58c1be93a41)
   * Implemented Chrome Dinosaur Game on the Longan Nano development board in RISC-V architecture.
-  * Designed user interface with physical buttons and animation drawing in assembly language.
+  * Designed interactive user interface with physical buttons and animations in RISC-V assembly language.
   
 * **Stock Movement Prediction Based on Social Media Text And Sentimental Analysis**
-  * Designed an automatic crawler to retrieve data from Twitter and stock news.
+  * Developed an automated crawler for data collection from Twitter and stock news.
   * Designed an efficient way to pre-process collected data and apply feature engineering.
-  * Implemented several machine learning models(LSTM, XG Boost, RF Regression..) to predict the stock price and make comparison between them to find which achieves the best performance. 
+  * Implemented various machine learning models(LSTM, XG Boost, RF Regression) for stock price prediction based on historical market data and current public sentiment.
+  * Design an efficient evaluation and baseline to evaluate trading model and strategy.
 

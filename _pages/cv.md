@@ -11,12 +11,16 @@ redirect_from:
 
 * **Shanghai Luoshu Investments Co., Ltd., Shanghai, China**  (Aug.2022 – Dec.2022)
   * ***Python Developer Intern, IT2***
-  * Developed and maintained the company's quantitative and high-speed trading systems and company’s automation platform for daily uploading and running of scripts.
-  * Developed data platform and factor platform.
+  * Developed and maintained the company's quantitative and high-speed trading systems and company's automation platform for daily uploading and running of scripts.
+
+  * Developed data platform and factor platform to aid trading decisions.
+  * Optimized the storage of transaction data and accelerated the trading backtesting through parallel computing.
 
 * **Shanghai Shudan Information and Technology, Shanghai China** (June.2022 – July.2022)
   * ***Python Developer***
-  * Developed and maintained Web3.0 and NFT crawler using HTML, JavaScript, and Python for reverse engineering and decompilation to retrieve and aggregate data for customers to make trading decisions.
+  * Developed a web crawler for NFT market information, employing reverse engineering and decompilation with HTML, Javascript, and Python.
+
+  * Established and maintained a database for data collection and automated script management.
   
 <!-- Skills
 ======
