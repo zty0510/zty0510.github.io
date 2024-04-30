@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-======
+
 * **Shanghai Luoshu Investments Co., Ltd., Shanghai, China**  (Aug.2022 – Dec.2022)
   * ***Python Developer Intern, IT2***
   * Developed and maintained the company's quantitative and high-speed trading systems and company’s automation platform for daily uploading and running of scripts.
